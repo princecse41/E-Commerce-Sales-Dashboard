@@ -70,6 +70,9 @@ Includes:
 - Product Profit Analysis
 - Product Sales Comparison
 
+  <img width="1442" height="793" alt="Product Analyst Screenshot" src="https://github.com/user-attachments/assets/80df0312-349d-420d-b91a-7a337635b9ad" />
+
+
 ---
 
 ### 3️⃣ Customer Analysis
@@ -80,6 +83,9 @@ Includes:
 - Gender-wise Sales
 - Customer Login Type
 - Payment Method Preference
+
+<img width="1441" height="795" alt="Customer Analyst Screenshot" src="https://github.com/user-attachments/assets/41d1cb6c-fc9c-4ab7-87f0-5275ba7e1cad" />
+
 
 ---
 
@@ -92,6 +98,9 @@ Includes:
 - Profit Margin
 - Sales vs Profit
 - Shipping Cost Analysis
+
+  <img width="1447" height="802" alt="Profit   Cost Analyst Screenshot" src="https://github.com/user-attachments/assets/1e398744-8574-4852-af34-239f0e9871bd" />
+
 
 ## 📚 Skills Demonstrated
 
